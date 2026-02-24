@@ -9,7 +9,7 @@ case "$TAG" in
     "aykutkocaman")  CONTENT="Aykut Kocaman" ;;
     "vitorpereira")  CONTENT="Vitor Pereira" ;;
     "abdullahavci")  CONTENT="Abdullah Avcı" ;;
-    *)               CONTENT="TwitterDL" ;;
+    *)               CONTENT="ArdoniumDL" ;;
 esac
 
 if [ -z "$URL" ]; then
